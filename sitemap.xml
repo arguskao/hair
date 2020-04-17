@@ -3,20 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hair.hi29.net/posts/</loc>
-    <lastmod>2020-04-17T23:58:29+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hair.hi29.net/2020/04/17/test/</loc>
-    <lastmod>2020-04-17T23:58:29+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://hair.hi29.net/links/</loc>
     <lastmod>2019-10-25T10:56:02+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -32,6 +18,13 @@
   
   <url>
     <loc>https://hair.hi29.net/categories/</loc>
+    <lastmod>2019-09-06T09:41:16+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hair.hi29.net/posts/</loc>
     <lastmod>2019-09-06T09:41:16+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
