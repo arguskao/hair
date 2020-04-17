@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 生髮產品推薦</title>
+    <link>https://hair.hi29.net/categories/</link>
+    <description>Recent content in Categories on 生髮產品推薦</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 06 Sep 2019 09:41:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://hair.hi29.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>藥物新知</title>
+      <link>https://hair.hi29.net/categories/%E8%97%A5%E7%89%A9%E6%96%B0%E7%9F%A5/</link>
+      <pubDate>Fri, 06 Sep 2019 09:41:16 +0800</pubDate>
+      
+      <guid>https://hair.hi29.net/categories/%E8%97%A5%E7%89%A9%E6%96%B0%E7%9F%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>健髮</title>
+      <link>https://hair.hi29.net/categories/%E5%81%A5%E9%AB%AE/</link>
+      <pubDate>Sat, 25 Aug 2018 09:41:58 +0800</pubDate>
+      
+      <guid>https://hair.hi29.net/categories/%E5%81%A5%E9%AB%AE/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
